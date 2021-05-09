@@ -30,6 +30,13 @@ Este repositório tem a finalidade de agrupar toda a documentação referente à
     <li><a href="https://github.com/Rodolfodq/Worktec2021-01/blob/main/Diagramas/DiagramadeAtividadesCadastrarSensor.png">Diagrama de Atividades - Cadastrar Sensor</a></li>
     <li><a href="https://github.com/Rodolfodq/Worktec2021-01/blob/main/Diagramas/DiagramaDeAtividadesCadastrarRecord.png">Diagrama de Atividades - Cadastrar Record</a></li>
 </ul>
+
+</br>
+<h1>Dados coletados: </h1>
+<p>Devido às restrições de distânciamento da Covid-19, não tivemos uma oportunidade de nos reunirmos para configurar o módulo Wi-fi no Arduíno Uno.</p>
+<p>Para que o trabalho não ficasse comprometido, salvamos as coletas realizadas pelo sensor, e desenvolvemos um script em Python para realizar os Post-Requests para o nosso back-end.</p>
+<a href="https://github.com/Rodolfodq/IOT-Project-PostData">Post-Requests dos dados coletados.</a>
+
 </br>
 <h1><a href="https://github.com/Rodolfodq/Worktec2021-01/tree/main/Hardware">Hardware:</a></h1>
 <ul>
