@@ -40,9 +40,17 @@ Este repositório tem a finalidade de agrupar toda a documentação referente à
 </br>
 <h1><a href="https://github.com/Rodolfodq/Worktec2021-01/tree/main/Hardware">Hardware:</a></h1>
 <ul>
-    <li><a href="https://github.com/Rodolfodq/Worktec2021-01/blob/main/Hardware/ArduinoUno.png">Arduino Uno</a></li>
-    <li><a href="https://github.com/Rodolfodq/Worktec2021-01/blob/main/Hardware/ArduinoNano.png">Arduino Nano</a></li>
-    <li><a href="https://github.com/Rodolfodq/Worktec2021-01/blob/main/Hardware/SensorDeUmidade.png">Sensor de Umidade</a></li>
+    <li><a href="https://github.com/Rodolfodq/Worktec2021-01/blob/main/Hardware/ArduinoUno.png">Arduino Uno.</a></li>
+    <li><a href="https://github.com/Rodolfodq/Worktec2021-01/blob/main/Hardware/ArduinoNano.png">Arduino Nano.</a></li>
+    <li><a href="https://github.com/Rodolfodq/Worktec2021-01/blob/main/Hardware/SensorDeUmidade.png">Sensor de Umidade.</a></li>
+</ul>
+</br>
+<h1><a href="https://github.com/Rodolfodq/Worktec2021-01/tree/main/Experimento">Imagens do Experimento:</a></h1>
+<ul>
+  <li><a href="https://github.com/Rodolfodq/Worktec2021-01/blob/main/Experimento/ComposicaoDoExperimento.jpeg">Composição do Experimento.</a></li>
+  <li><a href="https://github.com/Rodolfodq/Worktec2021-01/blob/main/Experimento/DetalhamentoDaColetaDeDados.jpeg">Detalhamento da Coleta de Dados.</a></li>
+  <li><a href="https://github.com/Rodolfodq/Worktec2021-01/blob/main/Experimento/IrrigacaoManual-1.jpeg">Irrigação Manual 1.</a></li>
+  <li><a href="https://github.com/Rodolfodq/Worktec2021-01/blob/main/Experimento/IrrigacaoManual-2.jpeg">Irrigação Manual 2.</a></li>
 </ul>
 </br>
 <h1>Apresentação dos dados coletados - Grafana</h1>
